@@ -1,5 +1,7 @@
-﻿Flask
+Flask
 torch
 transformers
 pdfplumber
 gunicorn
+tiktoken
+protobuf
