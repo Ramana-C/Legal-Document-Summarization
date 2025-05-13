@@ -1,0 +1,25 @@
+/* static/style.css */
+
+/* Container stays the same */
+.parchment-container {
+    background: url("/static/img/ParchementHori.jpg") no-repeat center center;
+    background-size: cover;
+    padding: 60px 40px;
+    margin: 20px auto;
+    max-width: 610px;
+    min-height: 406px;
+    position: relative;
+    font-family: Georgia, serif;
+    
+  }
+  
+  /* Use a light parchment‑tone instead of white */
+  .parchment-text {
+    /* background-color: rgba(245, 235, 210, 0.85); */
+    padding: 25px 30px;
+    border-radius: 4px;
+    line-height: 1.6;
+    color: black;  /* darker brownish for better contrast */
+    /* border: 1px solid rgba(200, 180, 140, 0.6); */
+  }
+  
